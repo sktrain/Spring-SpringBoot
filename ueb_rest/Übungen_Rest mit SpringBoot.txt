@@ -1,0 +1,34 @@
+Uebungen:
+
+1) Die Lösung aus den Aufgaben JPA mit Spring Boot "sk.train.x11_07_JPA_Spring_SpringBoot_Solution" 
+soll jetzt mit einem Rest-Frontend versehen werden.
+
+2) Zugriff aus Rest-Controller auf HTTPServletRequest zur Auswertung des Requests und Rückgabe der Infos.
+
+3) Erweiterung von 1) um ExceptionHandling mittels @ControllerAdvice
+
+4) Erweiterung von 3) um XML-Format
+
+5) Erweiterung von 4) um HATEOAS-Support
+
+6) Ergänzen um Spring Data Rest: wir brauchen keine Controller mehr
+
+7) Ergänzen von Lösung 3 oder 4 um Swagger
+
+8) Rest-Client via RestTemplate (auf der Serverseite z.B. Lösung aus Schritt 1):
+  - mal einzelnen Employee abfragen (Klassen müssen auch auf der Client-Seite vorhanden sein)
+  - mal alle Employees abfragen.
+  - was ist das für eine Collection und was der Inhaltstyp?
+  - gibt es da Probleme und kann man das korrigieren?
+ (siehe auch https://www.baeldung.com/jackson-collection-array)
+ 
+ 9) Testen der Controller-Klasse vie Slice-Test
+
+
+
+
+
+
+
+
+
